@@ -62,16 +62,6 @@ This string representation inspired an extra script to generate random steps, an
 \  /\/\/
  \/
 
- UUUUUDUDUDUUDUDUDUDUUDUDUDUDUDUDUUDUDDDD
-                                 /\/\
-                    /\/\/\/\/\/\/    \
-           /\/\/\/\/                  \
-    /\/\/\/                            \
-   /
-  /
- /
-/
-
 UDUDUDUUDUDDUDUDDUDUDDUDUDDDUDUDUDUDUDUDUDUDDDDUUDUUDUUUDDUUUDUDUDUDUUDUDDUUDDUD
        /\/\
 /\/\/\/    \/\/\
@@ -82,4 +72,29 @@ UDUDUDUUDUDDUDUDDUDUDDUDUDDDUDUDUDUDUDUDUDUDDDDUUDUUDUUUDDUUUDUDUDUDUUDUDDUUDDUD
                                             \      /\/
                                              \  /\/
                                               \/
+
+UDUDUDUUUDUDUDUUUDDUDUUDUUUDDUDUDUUDUUUDDDDUUUDUDUDUDDDUUDDUDUDUDUDUDUDUDUUDUDUUUDDUUUUDUUUDDUUDUDUDUDDUDDDUDDDDUDUDDUDDUDDUUDUUUDUDUDUDDDDDUDUUUDDUUDDUDUDUUDUDUDUDDDUDUDUDUUUUDUDDDUUUDDDDUDUUDDUDDDUDUDUDUDUDUDUDUDUDUDUUUDDDDUUUUDDUUUDUDDDUDDDUDDDUDUDUDDDDUDUDUDUDUDUDUDDUUDDUDUDUUDDUDUDUUDUDDDDUDUDUUUUDDUDDUUUUUDDUDDDUDDUUDUDDUDUDU
+                                                                                          /\  /\/\/\/\
+                                                                                         /  \/        \/\
+                                                                                      /\/                \
+                                                                                     /                    \/\
+                                      /\                                        /\  /                        \
+                                     /  \    /\/\/\/\                          /  \/                          \
+                          /\      /\/    \  /        \  /\                /\/\/                                \/\/\            /\/\/\/\
+                         /  \/\/\/        \/          \/  \/\/\/\/\/\/\/\/                                          \/\        /        \                                      /\/\    /\
+                /\    /\/                                                                                              \/\  /\/          \      /\  /\      /\/\/\/\          /    \  /  \
+               /  \/\/                                                                                                    \/              \    /  \/  \/\/\/        \        /      \/    \    /\                                        /\/\
+        /\/\/\/                                                                                                                            \/\/                      \/\/\/\/              \/\/  \/\                        /\      /\  /    \
+       /                                                                                                                                                                                            \                      /  \    /  \/      \/\
+/\/\/\/                                                                                                                                                                                              \/\/\/\/\/\/\/\/\/\/\/    \  /              \
+                                                                                                                                                                                                                                \/                \/\
+                                                                                                                                                                                                                                                     \
+                                                                                                                                                                                                                                                      \/\/\/\
+                                                                                                                                                                                                                                                             \                                                          /\
+                                                                                                                                                                                                                                                              \                                                        /  \/\
+                                                                                                                                                                                                                                                               \/\/\/\/\/\/\/\  /\      /\      /\/\          /\      /      \
+                                                                                                                                                                                                                                                                              \/  \/\/\/  \/\/\/    \        /  \/\  /        \/\  /\/\
+                                                                                                                                                                                                                                                                                                     \      /      \/            \/    \/\/\/
+                                                                                                                                                                                                                                                                                                      \/\/\/
+
 </pre>
