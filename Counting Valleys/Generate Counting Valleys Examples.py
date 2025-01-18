@@ -62,7 +62,7 @@ def plot_elevation_line(df: pd.DataFrame, elevation: int) -> str:
     """
     filtered_df = df[((df['Elevation'] == elevation) & (df['UD'] == 'U')) | 
                      ((df['Elevation'] == elevation - 1) & (df['UD'] == 'D')) & # 'D' values need to be offset to align correctly
-                     (df['x'] > 0)].reset_index(drop=True)
+                     (df['x'] > 0)].reset_index(drop=True) # Required to pull data points in order after filtering
     elevation_line = ''
     last_x = 0
     
