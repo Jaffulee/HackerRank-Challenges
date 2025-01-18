@@ -49,7 +49,7 @@ _/\      _
 The hiker enters and leaves one valley.
 </pre>
 
-This string representation inspired an extra script to generate random steps, and plot it as shown and using matplotlib. Below are three more examples.
+This above string representation of the hike inspired an extra script to generate random steps, and plot it both as shown above and using matplotlib. Below are three more examples generated from this additional script.
 
 <pre>
  DDUUDUDUUUUUDDUUUUDD
