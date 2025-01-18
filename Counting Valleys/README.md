@@ -48,3 +48,38 @@ _/\      _
 
 The hiker enters and leaves one valley.
 </pre>
+
+This string representation inspired an extra script to generate random steps, and plot it as shown and using matplotlib. Below are three more examples.
+
+<pre>
+ DDUUDUDUUUUUDDUUUUDD
+                 /\
+                /  \
+           /\  /
+          /  \/
+         /
+        /
+\  /\/\/
+ \/
+
+ UUUUUDUDUDUUDUDUDUDUUDUDUDUDUDUDUUDUDDDD
+                                 /\/\
+                    /\/\/\/\/\/\/    \
+           /\/\/\/\/                  \
+    /\/\/\/                            \
+   /
+  /
+ /
+/
+
+UDUDUDUUDUDDUDUDDUDUDDUDUDDDUDUDUDUDUDUDUDUDDDDUUDUUDUUUDDUUUDUDUDUDUUDUDDUUDDUD
+       /\/\
+/\/\/\/    \/\/\
+                \/\/\                                                /\/\  /\
+                     \/\/\                                  /\/\/\/\/    \/  \/\
+                          \                            /\  /
+                           \/\/\/\/\/\/\/\/\          /  \/
+                                            \      /\/
+                                             \  /\/
+                                              \/
+</pre>
